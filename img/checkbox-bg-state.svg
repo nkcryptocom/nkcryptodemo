@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="44px" viewBox="0 0 22 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 23</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="22" width="22" height="22" rx="11"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="22" height="22" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Case-1" transform="translate(-551.000000, -353.000000)">
+            <g id="Group-23" transform="translate(551.000000, 353.000000)">
+                <rect id="Rectangle-5-Copy-7" fill="#34CB5C" x="0" y="0" width="22" height="22" rx="11"></rect>
+                <path d="M6.12796647,11.8849307 C5.95734451,11.7204336 5.95734451,11.4526884 6.12796647,11.2864414 L6.74658043,10.687952 C6.91720239,10.523455 7.19457244,10.523455 7.36519439,10.687952 L9.5001563,12.7826647 L14.2591964,8.1233728 C14.4298183,7.95887573 14.7071884,7.95887573 14.8778104,8.1233728 L15.4964243,8.72186212 C15.6670463,8.88635919 15.6670463,9.15497939 15.4964243,9.31947646 L9.80902579,14.8765023 C9.63840383,15.0401244 9.36190877,15.0401244 9.19041183,14.8747523 L6.12796647,11.8849307 Z" id="Shape-Copy-4" fill="#FFFFFF"></path>
+                <use id="Rectangle-5-Copy" stroke="#DFE9F0" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
